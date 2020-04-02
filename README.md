@@ -12,6 +12,9 @@ DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよ
 - 終了日 4月2日
 - 成果物 ログイン機能を実装
 
+### 3章【画像投稿機能を作ろう】
+- 開始日 4月3日
+
 <!-- # README
 
 This README would normally document whatever steps are necessary to get the
