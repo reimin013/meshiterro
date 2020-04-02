@@ -9,6 +9,6 @@ Rails.application.routes.draw do
   	resource :favorites, only: [:create, :destroy]
     resource :post_comments, only: [:create, :destroy]
   end
-  resources :users, only: [:show]
+  resources :users, only: [:show, :edit]
   #'resource'=> idの受け渡し不要, 'resources' =>idの受け渡し必要
 end
