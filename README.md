@@ -17,6 +17,9 @@ DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよ
 - 終了日 4月2日
 - 成果物 画像投稿機能を実装
 
+### 4章【コメント・いいね機能を作ろう】
+- 開始日 4月2日
+
 <!-- # README
 
 This README would normally document whatever steps are necessary to get the
