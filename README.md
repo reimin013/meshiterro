@@ -22,6 +22,10 @@ DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよ
 - 終了日 4月2日
 - 成果物 コメント機能・いいね機能・ページング機能・バリデーションを実装
 
+### 5章【投稿削除機能・マイページを作ろう】
+- 開始日 4月2日
+
+
 <!-- # README
 
 This README would normally document whatever steps are necessary to get the
