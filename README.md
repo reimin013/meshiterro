@@ -35,7 +35,10 @@ DMM WEBCAMPの学習コンテンツ【アプリケーションを完成させよ
 ### 7章【部分テンプレートを使おう】
 - 開始日 4月3日
 - 終了日 4月3日
-- 成果物 部分テンプレートを導入（「post_images/index.html.erbファイル」と「users/show.html.erbファイル」）
+- 成果物 部分テンプレートを導入（「post_images/index.html.erbファイル」と「users/show.html.erbファイル」の共通部分を部分テンプレートを記述）
+
+### 8章【CSSフレームワークBootstrapを使おう】
+- 開始日 4月3日
 
 
 <!-- # README
